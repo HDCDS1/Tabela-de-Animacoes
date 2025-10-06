@@ -12,7 +12,7 @@
                 animsByName
                       |
          | returns animation id by name |
-   https://discord.gg/zcrJxgdY  -DM
+   https://discord.gg/N49fmtT3VZ  -community
 --]]
 animsById = {
     [1] = {
